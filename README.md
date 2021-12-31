@@ -1,3 +1,5 @@
+This tool is outdated and has been replaced with https://docs.epicmickey.wiki/tools/cmdline/.
+
 # emtool
 A web tool for generating cmdline.txt files for Epic Mickey. Live at http://andrew.plus/emtool. Source code is licensed under the [MIT license](LICENSE).
 
